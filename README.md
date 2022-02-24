@@ -2,7 +2,7 @@ Coursera course: HTML, CSS, and Javascript for Web Developers, Module 3 Coding A
 
 link: https://samgeorgian.github.io/coursera-course-module3-assignment--/
 
-Github link :https://github.com/samgeorgian/coursera-course-module3-assignment--
+Github link: https://github.com/samgeorgian/coursera-course-module3-assignment--
 
 Time to complete: About 1 hour or less.
 
